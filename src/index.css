@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#editor {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  width: 99vw;
+  height: 99vh;
+  word-wrap: normal;
+  overflow-y: scroll;
+  padding: 1vmin;
+}
